@@ -31,10 +31,10 @@ https://open-meteo.com/
 Open-Meteo is an open-source weather API and offers free access for non-commercial use. No API key required. 
 
 ## Screenshots
-<img src="/screenshots/Screenshot1.png" style="width:60%; height:60%;">
-<img src="/screenshots/Screenshot2.png" style="width:60%; height:60%;">
-<img src="/screenshots/Screenshot3.png" style="width:60%; height:60%;">
-<img src="/screenshots/Screenshot4.png" style="width:60%; height:60%;">
+<img src="/screenshots/Screenshot1.png" style="width:50%; height:50%;">
+<img src="/screenshots/Screenshot2.png" style="width:50%; height:50%;">
+<img src="/screenshots/Screenshot3.png" style="width:50%; height:50%;">
+<img src="/screenshots/Screenshot4.png" style="width:50%; height:50%;">
 
 ![](./screenshots/Screenshot5.png)
 ![](./screenshots/Screenshot6.png)
