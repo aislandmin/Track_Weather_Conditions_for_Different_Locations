@@ -1,5 +1,6 @@
 # Track Weather Conditions for Different Locations
-**Purpose**: Develop Robust Android Applications with Networking, Navigation, and Data Persistence:
+**Purpose**: Develop Robust Android Applications with Networking, Navigation, and Data Persistence
+
 **Task**: Develop a new application to help users track weather conditions for different locations. The application includes the following functionalities:
 -	Network calls to fetch weather data from an API.
 -	Navigation between different screens to display weather details.-•	Local data storage using the Room library.
@@ -26,6 +27,7 @@
 
 ## Weather API
 https://open-meteo.com/
+
 Open-Meteo is an open-source weather API and offers free access for non-commercial use. No API key required. 
 
 ## Screenshots
