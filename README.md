@@ -31,6 +31,7 @@ https://open-meteo.com/
 Open-Meteo is an open-source weather API and offers free access for non-commercial use. No API key required. 
 
 ## Screenshots
+<img src="/screenshots/Screenshot1.png" style="width:60%; height:60%;">
 ![](./screenshots/Screenshot1.png)
 ![](./screenshots/Screenshot2.png)
 ![](./screenshots/Screenshot3.png)
