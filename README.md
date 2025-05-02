@@ -1,5 +1,6 @@
 # Track Weather Conditions for Different Locations
-to develop a new application to help users track weather conditions for different locations. The application includes the following functionalities:
+**Purpose**: Develop Robust Android Applications with Networking, Navigation, and Data Persistence:
+**Task**: Develop a new application to help users track weather conditions for different locations. The application includes the following functionalities:
 -	Network calls to fetch weather data from an API.
 -	Navigation between different screens to display weather details.-•	Local data storage using the Room library.
 -	Implementation of MVVM architecture and repository pattern for better code organization and data management.
@@ -22,3 +23,15 @@ to develop a new application to help users track weather conditions for differen
 -	Implement the MVVM architectural pattern.
 -	Create ViewModel classes for managing UI-related data and business logic.
 -	Utilize the repository pattern to abstract data access and management.
+
+## Weather API
+https://open-meteo.com/
+Open-Meteo is an open-source weather API and offers free access for non-commercial use. No API key required. 
+
+## Screenshots
+![](./screenshots/Screenshot1.png)
+![](./screenshots/Screenshot2.png)
+![](./screenshots/Screenshot3.png)
+![](./screenshots/Screenshot4.png)
+![](./screenshots/Screenshot5.png)
+![](./screenshots/Screenshot6.png)
