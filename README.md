@@ -32,9 +32,9 @@ Open-Meteo is an open-source weather API and offers free access for non-commerci
 
 ## Screenshots
 <img src="/screenshots/Screenshot1.png" style="width:60%; height:60%;">
-![](./screenshots/Screenshot1.png)
-![](./screenshots/Screenshot2.png)
-![](./screenshots/Screenshot3.png)
-![](./screenshots/Screenshot4.png)
+<img src="/screenshots/Screenshot2.png" style="width:60%; height:60%;">
+<img src="/screenshots/Screenshot3.png" style="width:60%; height:60%;">
+<img src="/screenshots/Screenshot4.png" style="width:60%; height:60%;">
+
 ![](./screenshots/Screenshot5.png)
 ![](./screenshots/Screenshot6.png)
